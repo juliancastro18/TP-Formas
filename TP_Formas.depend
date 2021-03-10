@@ -1,0 +1,139 @@
+# depslib dependency file v1.0
+1588913989 source:c:\users\imma\documents\unla\algoritmos y estructuras de datos\07. tp grupal tda\tp_formas\main.cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+	<cstdlib>
+	"lista.h"
+	"triangulo.h"
+	"rectangulo.h"
+	"cubo.h"
+	"circulo.h"
+	"cilindro.h"
+
+1588913945 c:\users\imma\documents\unla\algoritmos y estructuras de datos\07. tp grupal tda\tp_formas\triangulo.h
+	<string>
+
+1588906164 source:c:\users\imma\documents\unla\algoritmos y estructuras de datos\07. tp grupal tda\tp_formas\triangulo.cpp
+	"triangulo.h"
+	<iostream>
+	<iomanip>
+
+1588909051 source:c:\users\imma\documents\unla\algoritmos y estructuras de datos\07. tp grupal tda\tp_formas\lista.cpp
+	<iostream>
+	<stdlib.h>
+	"lista.h"
+	"triangulo.h"
+	"rectangulo.h"
+	"cubo.h"
+	"circulo.h"
+	"cilindro.h"
+
+1588913945 c:\users\imma\documents\unla\algoritmos y estructuras de datos\07. tp grupal tda\tp_formas\lista.h
+
+1588893648 c:\users\imma\documents\unla\algoritmos y estructuras de datos\07. tp grupal tda\tp_formas\circulo.h
+	<string>
+
+1588896111 source:c:\users\imma\documents\unla\algoritmos y estructuras de datos\07. tp grupal tda\tp_formas\circulo.cpp
+	"circulo.h"
+	<iostream>
+	<iomanip>
+	<math.h>
+
+1588897438 source:c:\users\imma\documents\unla\algoritmos y estructuras de datos\07. tp grupal tda\tp_formas\rectangulo.cpp
+	<iostream>
+	<stdlib.h>
+	<iomanip>
+	"Rectangulo.h"
+
+1588894741 c:\users\imma\documents\unla\algoritmos y estructuras de datos\07. tp grupal tda\tp_formas\rectangulo.h
+	<string>
+
+1588895401 c:\users\imma\documents\unla\algoritmos y estructuras de datos\07. tp grupal tda\tp_formas\cilindro.h
+	<string>
+
+1588897438 source:c:\users\imma\documents\unla\algoritmos y estructuras de datos\07. tp grupal tda\tp_formas\cilindro.cpp
+	"cilindro.h"
+	<iostream>
+	<iomanip>
+
+1588897944 source:c:\users\imma\documents\unla\algoritmos y estructuras de datos\07. tp grupal tda\tp_formas\cubo.cpp
+	"cubo.h"
+	<iostream>
+	<iomanip>
+
+1588897944 c:\users\imma\documents\unla\algoritmos y estructuras de datos\07. tp grupal tda\tp_formas\cubo.h
+	<string>
+
+1590537832 source:c:\users\imma\documents\unla\algoritmos y estructuras de datos\07. tp grupal tda\cilindro.cpp
+	"cilindro.h"
+	<iostream>
+	<iomanip>
+
+1590534235 c:\users\imma\documents\unla\algoritmos y estructuras de datos\07. tp grupal tda\cilindro.h
+	<string>
+
+1590537979 source:c:\users\imma\documents\unla\algoritmos y estructuras de datos\07. tp grupal tda\circulo.cpp
+	"circulo.h"
+	<iostream>
+	<iomanip>
+	<math.h>
+
+1588893648 c:\users\imma\documents\unla\algoritmos y estructuras de datos\07. tp grupal tda\circulo.h
+	<string>
+
+1590537979 source:c:\users\imma\documents\unla\algoritmos y estructuras de datos\07. tp grupal tda\cubo.cpp
+	"cubo.h"
+	<iostream>
+	<iomanip>
+
+1590533994 c:\users\imma\documents\unla\algoritmos y estructuras de datos\07. tp grupal tda\cubo.h
+	<string>
+
+1591038712 source:c:\users\imma\documents\unla\algoritmos y estructuras de datos\07. tp grupal tda\lista.cpp
+	<iostream>
+	<stdlib.h>
+	<iomanip>
+	"lista.h"
+	"triangulo.h"
+	"rectangulo.h"
+	"cubo.h"
+	"circulo.h"
+	"cilindro.h"
+
+1590533424 c:\users\imma\documents\unla\algoritmos y estructuras de datos\07. tp grupal tda\lista.h
+
+1590531018 c:\users\imma\documents\unla\algoritmos y estructuras de datos\07. tp grupal tda\triangulo.h
+	<string>
+
+1588894741 c:\users\imma\documents\unla\algoritmos y estructuras de datos\07. tp grupal tda\rectangulo.h
+	<string>
+
+1590807679 source:c:\users\imma\documents\unla\algoritmos y estructuras de datos\07. tp grupal tda\main.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<algorithm>
+	<cstdlib>
+	<fstream>
+	<windows.h>
+	<iomanip>
+	<conio.h>
+	"lista.h"
+	"triangulo.h"
+	"rectangulo.h"
+	"cubo.h"
+	"circulo.h"
+	"cilindro.h"
+
+1590537832 source:c:\users\imma\documents\unla\algoritmos y estructuras de datos\07. tp grupal tda\rectangulo.cpp
+	<iostream>
+	<stdlib.h>
+	<iomanip>
+	"Rectangulo.h"
+
+1590537832 source:c:\users\imma\documents\unla\algoritmos y estructuras de datos\07. tp grupal tda\triangulo.cpp
+	"triangulo.h"
+	<iostream>
+	<iomanip>
+

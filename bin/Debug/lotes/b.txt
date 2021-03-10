@@ -1,0 +1,6 @@
+﻿cilindro amarillo 2,5; 3
+rectangulo amarillo 6; 3
+circulo amarillo 3,2
+cilindro amarillo 2,5; 3
+cilindro amarillo 2,5; 3
+cilindro amarillo 2,5; 3
